@@ -77,11 +77,6 @@ My interests span across Full Stack Development, Artificial Intelligence, Machin
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgresql,firebase,supabase&theme=dark" />
 </p>
 
-## Cloud, DevOps & Tooling
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=aws,docker,git,github,linux,vercel,netlify,postman,vscode&theme=dark" />
-</p>
 
 ---
 
@@ -103,7 +98,7 @@ My interests span across Full Stack Development, Artificial Intelligence, Machin
 # Featured Projects
 
 <details>
-<summary><b>AI Powered Career Guidance Platform</b></summary>
+<summary><b>AI Powered smart glasses for blind users</b></summary>
 
 ### Description
 
@@ -127,49 +122,7 @@ Designed a scalable recommendation engine capable of providing personalized lear
 <details>
 <summary><b>Smart Campus Management System</b></summary>
 
-### Description
 
-A centralized digital platform for attendance tracking, announcements, event management, and academic administration.
-
-| Category | Details |
-|----------|----------|
-| Stack | React, Express, MongoDB |
-| Scale | Institution Level |
-| Performance | Efficient CRUD operations |
-| Security | Role Based Access Control |
-| Impact | Improved operational efficiency |
-| Repository | Public Repository |
-
-### Professional Overview
-
-Built a modular architecture supporting multiple stakeholders including students, faculty, and administrators with streamlined workflows.
-
-</details>
-
-<details>
-<summary><b>AI Resume Analyzer</b></summary>
-
-### Description
-
-An AI-driven application that evaluates resumes, identifies skill gaps, and provides actionable recommendations.
-
-| Category | Details |
-|----------|----------|
-| Stack | Python, Flask, NLP |
-| Scale | Cloud Deployable |
-| Performance | Fast document processing |
-| Security | Secure file handling |
-| Impact | Enhanced employability insights |
-| Repository | Public Repository |
-
-### Professional Overview
-
-Integrated NLP pipelines to extract, analyze, and compare candidate skills against job requirements for intelligent recommendations.
-
-</details>
-
-<details>
-<summary><b>Full Stack E-Commerce Platform</b></summary>
 
 
 
