@@ -1,6 +1,8 @@
 
 # 💫 About Me:
-I am a B.Tech student in Information Science and Technology at Presidency University.During my academic journey, I have worked on projects such as AI-powered smart glasses designed to assist visually impaired individuals, and a team-based hackathon project where we developed a live Air Quality Index monitoring website. My core skills include Python, working with AI tools, and effective communication. I am driven by a passion for innovation and aspire to become a startup founder, building scalable and impactful tech solutions. I am always open to learning, networking, and collaborating on exciting projects,<br>
+I am a B.Tech student in Information Science and Technology at Presidency University.
+During my academic journey, I have worked on projects such as AI-powered smart glasses designed to assist visually impaired individuals, and a team-based hackathon project where we developed a live Air Quality Index monitoring website. 
+My core skills include Python, working with AI tools, and effective communication. I am driven by a passion for innovation and aspire to become a startup founder, building scalable and impactful tech solutions. I am always open to learning, networking, and collaborating on exciting projects,<br>
 
 
 ## 🌐 Socials:
